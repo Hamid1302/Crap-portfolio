@@ -7,9 +7,7 @@ public class portfolio{
         System.out.print("Sabrina is my sister");
 
         
-        System.out.print("Sabrina is my sister");
-        System.out.print("Sabrina is my sister");
-        System.out.print("Sabrina is my sister");
+ 
 
     }
 }
